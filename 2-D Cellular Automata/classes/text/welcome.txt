@@ -1,0 +1,17 @@
+Welcome to the graphical cellular automata interface!
+————
+These are some usable commands:
+
+createProgram <programName> <automata>
+createBox <programName> <gridName> <cellsX> <cellsY>
+run <programName> <boxName> <numberOfTicks>
+save <programName> <boxName>
+load <programName> <gridName>
+exit
+
+————
+These commands are in development:
+
+Nothing in development atm
+————
+Please choose a command now:
